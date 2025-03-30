@@ -44,5 +44,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-# Ignore Firebase keys
-firebase_keys.dart
+# Ignore Firebase api keys
+firebase_options.dart
